@@ -1,0 +1,16 @@
+{
+  "jsonrpc": "2.0",
+  "id": null,
+  "result": {
+    "sku": "KTCR-0037-WHA",
+    "category": "Finished Goods",
+    "name": "Personalized Whiskey Appreciation Crate",
+    "width": 8.0,
+    "height": 8.0,
+    "depth": 8.0,
+    "weight": 13.0,
+    "msrp_in_cents": 15650,
+    "cogs_in_cents": 3551,
+    "business_unit": "mancrates"
+  }
+}

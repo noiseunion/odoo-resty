@@ -1,0 +1,96 @@
+{
+  "jsonrpc": "2.0",
+  "id": null,
+  "result": [
+    {
+      "sku": "PKCO-0004-S11",
+      "name": "11 x 11 x 11\" Corrugated Box, Printed",
+      "quantity": 1.0,
+      "parent_sku": null
+    },
+    {
+      "sku": "MECR-0003-GN7",
+      "name": "7\" Prybars, GreatNeck Tools",
+      "quantity": 1.0,
+      "parent_sku": null
+    },
+    {
+      "sku": "GCNT-0100-GCS",
+      "name": "Gift Card / Shipping Label Form",
+      "quantity": 1.0,
+      "parent_sku": null
+    },
+    {
+      "sku": "FDNU-0035-PIS",
+      "name": "Pistachios, 5oz",
+      "quantity": 1.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "FDNU-0133-TOF",
+      "name": "Daves Brand Butter Toffee Almonds 4 oz",
+      "quantity": 1.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "MDBK-0008-WHI",
+      "name": "33 Drams of Whiskey, Tasting Notebook",
+      "quantity": 1.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "PKCO-0160-C11",
+      "name": "Three Panel Top for 11x11\"\" Crate",
+      "quantity": 1.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "VRCO-0035-SLA",
+      "name": "Slate Coasters, Square, Singles",
+      "quantity": 2.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "WOCR-0101-S11",
+      "name": "Wood Crate, 11x11x11\"",
+      "quantity": 1.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "FDNU-0132-CHI",
+      "name": "Dave's Brand Citrus Chili Cashews 4 oz",
+      "quantity": 1.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "VRIC-0049-TOV",
+      "name": "Tovolo Sphere Ice Mold, 2pk",
+      "quantity": 1.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "PKCO-2205-FOM",
+      "name": "Whiskey App Foam Insert, 2 parts set",
+      "quantity": 1.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "PKCO-0204-WAB",
+      "name": "Whiskey Appreciation Bottom Insert",
+      "quantity": 1.0,
+      "parent_sku": "ASPE-0110-WHA"
+    },
+    {
+      "sku": "GLLB-0003-PRI",
+      "name": "Libbey 9oz Prism Rocks Glass (#5279, Pers. Whiskey)",
+      "quantity": 1.0,
+      "parent_sku": "ASLA-0044-WHA"
+    },
+    {
+      "sku": "GLWH-0056-SDE",
+      "name": "Whiskey Glass Decanter Square",
+      "quantity": 1.0,
+      "parent_sku": "ASLA-0044-WHA"
+    }
+  ]
+}

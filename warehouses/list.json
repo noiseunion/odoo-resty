@@ -1,0 +1,20 @@
+{
+  "jsonrpc": "2.0",
+  "id": null,
+  "result": [
+    {
+      "id": 1,
+      "active": true,
+      "name": "Tijuana",
+      "code": "TJ",
+      "country": "MX"
+    },
+    {
+      "id": 2,
+      "active": true,
+      "name": "San Diego",
+      "code": "SD",
+      "country": "US"
+    }
+  ]
+}

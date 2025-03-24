@@ -1,0 +1,30 @@
+{
+  "jsonrpc": "2.0",
+  "id": null,
+  "result": [
+    {
+      "id": 1,
+      "name": "SD/OUT/00001",
+      "state": "done",
+      "origin": "TS/00001",
+      "warehouse": "SD",
+      "titan_uuid": "8194320a-f31c-49aa-9bad-5f12ac6c6746",
+      "order_id": "M35057212",
+      "metadata": {
+        "Customer Name": "JD Hendrickson",
+        "Shipping Container": "12x10x3-auto",
+        "International Address?": "No"
+      },
+      "warehouse_ready": true,
+      "expedited": false,
+      "shipping": {
+        "carrier": "FedEx",
+        "method": "GROUND_HOME_DELIVERY"
+      },
+      "item_count": 1,
+      "created_at": "2023-04-13T15:18:02Z",
+      "done_at": "2023-04-13T15:18:33Z",
+      "scheduled_on": "2023-04-14T00:00:00Z"
+    }
+  ]
+}

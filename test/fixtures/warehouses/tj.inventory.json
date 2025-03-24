@@ -1,0 +1,457 @@
+{
+  "jsonrpc": "2.0",
+  "id": null,
+  "result": [
+    {
+      "sku": "KTBX-0004-UTL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTBX-0012-ERSA",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTBX-0012-JER",
+      "breakdown": {
+        "available": 399.0,
+        "lots": [
+          {
+            "category": "available",
+            "name": "0000006",
+            "total": 200.0,
+            "expires_on": "2024-10-02T15:21:27Z",
+            "remove_on": "2024-09-30T15:21:27Z"
+          }
+        ]
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTCR-0017-EXO",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTCR-0124-GBO",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTCR-0145-LBL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTCR-0145-MBL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTCR-0145-SBL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTFF-0000-FLY",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTFF-0001-FLY",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTFF-0002-FLY",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTFF-0003-FLY",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTFF-0004-FLY",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTFF-0005-FLY",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTFF-0006-FLY",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 13.0
+    },
+    {
+      "sku": "KTFF-0007-FLY",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTFF-0008-FLY",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0000-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0001-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0002-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0003-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0004-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0005-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0006-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0007-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0008-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0009-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0010-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0011-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0012-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0013-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0014-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTNF-0015-NFL",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTZC-0020-PIG",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "ASPE-0110-WHA",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "FDNU-0035-PIS",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "FDNU-0132-CHI",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "FDNU-0133-TOF",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "GCNT-0100-GCS",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "GLLB-0003-PRI",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "GLWH-0056-SDE",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "MDBK-0008-WHI",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "MECR-0003-GN7",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "PKCO-0004-S11",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "PKCO-0160-C11",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "PKCO-0204-WAB",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "PKCO-2205-FOM",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "VRCO-0035-SLA",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "VRIC-0049-TOV",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "WOCR-0101-S11",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      },
+      "unreserved": 0.0
+    },
+    {
+      "sku": "KTCR-0037-WHA",
+      "delegate": "ASPE-0110-WHA",
+      "breakdown": {
+        "available": 100.0,
+        "lots": []
+      }
+    },
+    {
+      "sku": "KTCR-0097-BAR",
+      "breakdown": {
+        "available": 0,
+        "lots": []
+      }
+    },
+    {
+      "sku": "KTCR-0036-STE",
+      "breakdown": {
+        "available": 0,
+        "lots": []
+      }
+    },
+    {
+      "sku": "KTAM-0007-BAR",
+      "breakdown": {
+        "available": 0,
+        "lots": []
+      }
+    },
+    {
+      "sku": "KTCR-0009-PWH",
+      "breakdown": {
+        "available": 0,
+        "lots": []
+      }
+    },
+    {
+      "sku": "ASLA-0044-WHA",
+      "breakdown": {
+        "available": 0,
+        "lots": []
+      }
+    }
+  ]
+}
